@@ -1,0 +1,6 @@
+Molecule_ID,SMILES,Expected_IC50_nM,Validation_Type,Reference
+VAL_001,CCOc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1,0.5,Known_Active,Clinical
+VAL_002,COc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OC,1.2,Known_Active,Clinical
+VAL_003,C=CC(=O)Nc1cc(Nc2nccc(n2)c2cn(C)c3ccccc23)c(OC)cc1N(C)CCN(C)C,0.8,Known_Active,Clinical
+VAL_004,COc1ccc2c(c1)c(C#N)cn2C1CCOCC1,25.0,Predicted,ChEMBL
+VAL_005,Nc1ncnc2c1cnn2C1OC(CO)C(O)C1O,45.0,Predicted,ChEMBL

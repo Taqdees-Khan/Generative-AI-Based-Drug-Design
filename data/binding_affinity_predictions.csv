@@ -1,0 +1,11 @@
+Molecule_ID,Experimental_IC50_nM,BindingForge_Pred_IC50_nM,Vina_Affinity_kcal_mol,RMSD_A,Confidence_Score,Validation_Status
+Erlotinib,0.5,0.7,-8.3,4.41,0.95,Validated
+Gefitinib,1.2,1.4,-8.1,3.87,0.92,Validated
+Afatinib,0.3,0.4,-8.5,4.12,0.94,Validated
+Osimertinib,0.8,0.9,-8.4,3.95,0.93,Validated
+Lapatinib,2.1,2.3,-7.9,4.28,0.89,Validated
+NOVEL_02,,8.7,-8.4,,0.87,Predicted
+NOVEL_03,,14.2,-8.1,,0.82,Predicted
+NOVEL_16,,12.4,-8.3,,0.85,Predicted
+NOVEL_17,,10.8,-8.5,,0.89,Predicted
+NOVEL_18,,13.1,-8.2,,0.84,Predicted

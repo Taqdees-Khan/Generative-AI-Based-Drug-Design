@@ -1,0 +1,42 @@
+# EGFR Binding Site Definition (PDB: 1M17)
+# Based on erlotinib crystal structure analysis
+
+[BINDING_SITE]
+# Center coordinates (Angstroms)
+center_x = 22.0
+center_y = 1.5
+center_z = 3.0
+
+# Binding site radius (Angstroms)  
+radius = 12.0
+
+# Key residues within binding site
+[RESIDUES]
+MET793 = Gatekeeper residue, hydrophobic interactions
+LEU718 = Hydrophobic pocket
+VAL726 = Hydrophobic interactions
+ALA743 = Backbone interactions
+LYS745 = Electrostatic interactions
+MET766 = Hydrophobic pocket
+LEU788 = DFG motif interactions
+GLN791 = Hydrogen bonding
+CYS797 = Disulfide formation potential
+THR854 = Hydrogen bond acceptor/donor
+ASP855 = Hydrogen bond acceptor
+PHE856 = Pi-stacking interactions
+PHE723 = Pi-stacking interactions
+
+[PHARMACOPHORE]
+# Essential features for EGFR binding
+H_BOND_DONOR = THR854, GLN791
+H_BOND_ACCEPTOR = ASP855, backbone_carbonyls
+HYDROPHOBIC = MET793, LEU718, VAL726, LEU788, MET766
+AROMATIC = PHE856, PHE723
+ELECTROSTATIC = LYS745
+
+[VALIDATION]
+# Erlotinib binding validation
+reference_ligand = Erlotinib
+reference_pdb = 1M17
+experimental_ic50 = 0.5 nM
+docking_rmsd_threshold = 2.0 A

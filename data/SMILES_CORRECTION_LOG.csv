@@ -1,0 +1,6 @@
+Molecule_ID,Original_ID,PREVIOUS_INCORRECT_SMILES,CORRECTED_ACTUAL_SMILES,Source_File,Vina_Affinity_kcal_mol,Correction_Date
+NOVEL_02,molecule_02,COc1ccc2nc(Nc3ccc(N4CCN(CCO)CC4)c(C)c3)ncc2c1,n1c2c(ncnc2c(Nc2cccc(NC(C)C)c2)cc1)C1CCC1,combined_molecules.csv,-8.3,2025-08-28
+NOVEL_03,molecule_03,CCN(CC)CCOc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OC,c1ccc(cc2c1Nc1ncnc(c1)NCCCCC1)Nc1ncnc2C1CCOCC1,combined_molecules.csv,-8.4,2025-08-28
+NOVEL_16,molecule_16,COc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCN1CCOCC1,Cc1ccc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1,combined_molecules.csv,-8.1,2025-08-28
+NOVEL_17,molecule_17,Fc1ccc(Nc2ncnc3cc(OCCN4CCOCC4)c(OC4CCOCC4)cc23)cc1Cl,c1ccc(Nc2nccc(c3ccccc3)n2)cc1,combined_molecules.csv,-7.7,2025-08-28
+NOVEL_18,molecule_18,COc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCN(C)CC1,COc1ccc(Nc2nccc(c3ccccc3)n2)cc1,combined_molecules.csv,-7.9,2025-08-28

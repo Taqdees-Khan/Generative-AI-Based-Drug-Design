@@ -1,0 +1,26 @@
+# AutoDock Vina Grid Parameters for EGFR (1M17)
+# Binding site coordinates from erlotinib crystal structure
+
+center_x = 22.0
+center_y = 1.5  
+center_z = 3.0
+
+size_x = 20.0
+size_y = 20.0
+size_z = 20.0
+
+# Energy range for conformational search
+energy_range = 4
+
+# Number of binding modes to generate
+num_modes = 20
+
+# Exhaustiveness of search
+exhaustiveness = 32
+
+# Receptor file (prepared using AutoDockTools)
+# Prepared from PDB ID: 1M17, waters removed, hydrogens added
+receptor = egfr_receptor.pdbqt
+
+# CPU cores to use
+cpu = 4

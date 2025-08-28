@@ -1,0 +1,11 @@
+Molecule_Type,SMILES,Class,Vina_Affinity_kcal_mol,Validation_Status
+Erlotinib,CCOc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1,Clinical,-8.3,Clinical
+Gefitinib,COc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OC,Clinical,-8.1,Clinical
+Afatinib,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1,Clinical,-8.5,Clinical
+Osimertinib,C=CC(=O)Nc1cc(Nc2nccc(n2)c2cn(C)c3ccccc23)c(OC)cc1N(C)CCN(C)C,Clinical,-8.4,Clinical
+Lapatinib,COc1ccc(Nc2nccc(n2)c2cn(C)c3ccccc23)cc1Cl,Clinical,-7.9,Clinical
+NOVEL_02,n1c2c(ncnc2c(Nc2cccc(NC(C)C)c2)cc1)C1CCC1,BindingForge_Generated,-8.3,Docking_Validated
+NOVEL_03,c1ccc(cc2c1Nc1ncnc(c1)NCCCCC1)Nc1ncnc2C1CCOCC1,BindingForge_Generated,-8.4,Docking_Validated
+NOVEL_16,Cc1ccc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1,BindingForge_Generated,-8.1,Docking_Validated
+NOVEL_17,c1ccc(Nc2nccc(c3ccccc3)n2)cc1,BindingForge_Generated,-7.7,Docking_Validated
+NOVEL_18,COc1ccc(Nc2nccc(c3ccccc3)n2)cc1,BindingForge_Generated,-7.9,Docking_Validated

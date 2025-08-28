@@ -1,0 +1,16 @@
+Residue_ID,Chain,Distance_from_Erlotinib_A,Interaction_Type,Conservation_Score,RMSD_Contribution_A
+MET793,A,3.8,Hydrophobic,0.95,4.2
+GLN791,A,4.2,H-bond,0.88,3.8
+LEU718,A,3.5,Hydrophobic,0.92,5.1
+VAL726,A,4.1,Hydrophobic,0.85,4.4
+ALA743,A,3.9,Hydrophobic,0.78,3.6
+LYS745,A,5.2,Electrostatic,0.91,2.9
+LEU788,A,4.6,Hydrophobic,0.87,4.7
+MET766,A,3.7,Hydrophobic,0.83,5.3
+LEU844,A,4.8,Hydrophobic,0.79,3.8
+THR854,A,3.2,H-bond,0.94,5.6
+PHE856,A,3.1,Pi-stacking,0.96,6.1
+ASP855,A,4.9,H-bond,0.89,4.9
+CYS797,A,3.6,Hydrophobic,0.9,4.1
+GLY796,A,4.3,Backbone,0.82,3.9
+PHE723,A,3.4,Pi-stacking,0.93,5.5

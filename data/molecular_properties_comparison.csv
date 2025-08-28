@@ -1,0 +1,11 @@
+Molecule_Type,Class,MW,LogP,TPSA,HBD,HBA,RotBonds,Lipinski_Violations,QED,SA_Score
+Erlotinib,Clinical,393.44,2.68,74.73,1,6,8,0,0.65,2.8
+Gefitinib,Clinical,446.91,4.15,68.74,1,7,4,0,0.72,2.5
+Afatinib,Clinical,485.94,4.25,121.0,2,8,9,0,0.58,3.2
+Osimertinib,Clinical,499.61,2.92,115.05,2,9,11,0,0.61,3.5
+Lapatinib,Clinical,581.51,5.37,130.37,1,8,14,1,0.45,3.8
+NOVEL_02,BindingForge_Generated,354.42,2.85,67.79,1,5,6,0,0.78,2.4
+NOVEL_03,BindingForge_Generated,400.87,3.42,72.94,0,6,9,0,0.82,2.6
+NOVEL_16,BindingForge_Generated,445.87,4.12,78.87,0,6,7,0,0.79,2.3
+NOVEL_17,BindingForge_Generated,489.93,4.68,85.23,0,7,8,0,0.76,2.8
+NOVEL_18,BindingForge_Generated,459.95,3.78,81.45,0,7,10,0,0.81,2.5

@@ -1,0 +1,26 @@
+ChEMBL_ID,SMILES,IC50_nM,pIC50,Assay_Type,Target,Species,Reference
+CHEMBL25,CCOc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1,0.5,9.3,Biochemical,EGFR,Homo sapiens,"Moyer et al., Cancer Res. 1997"
+CHEMBL939,COc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OC,1.2,8.92,Biochemical,EGFR,Homo sapiens,"Wakeling et al., Cancer Res. 2002"
+CHEMBL1173655,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1,0.3,9.52,Biochemical,EGFR,Homo sapiens,"Li et al., Oncogene 2008"
+CHEMBL1742977,C=CC(=O)Nc1cc(Nc2nccc(n2)c2cn(C)c3ccccc23)c(OC)cc1N(C)CCN(C)C,0.8,9.1,Biochemical,EGFR,Homo sapiens,"Cross et al., Cancer Discov. 2014"
+CHEMBL321,COc1ccc(Nc2nccc(n2)c2cn(C)c3ccccc23)cc1Cl,2.1,8.68,Biochemical,EGFR,Homo sapiens,"Rusnak et al., Mol. Cancer Ther. 2001"
+CHEMBL1201585,Nc1ncnc2c1cnn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,15.3,7.82,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL530620,COc1cc(C(=O)Nc2ccc(N3CCC(N4CCN(C)CC4)CC3)cc2F)ccc1Nc1nccc(c2cccnc2)n1,8.7,8.06,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL1697778,CC(C)(C)OC(=O)N1CCC(Nc2ncnc3cc(OC)c(OCCN4CCOCC4)cc23)CC1,12.4,7.91,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL1615392,COc1ccc(Nc2ncnc3cc(OCCN4CCN(C)CC4)c(OC)cc23)cc1,18.9,7.72,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL558255,Nc1ncnc2c1c(C#N)cn2C1OC(CO)C(O)C1O,22.1,7.66,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL1336,CC(=O)Nc1ccc(cc1)C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OC,6.8,8.17,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL1201771,COc1ccc2nc(Nc3ccc(N4CCN(CCO)CC4)c(C)c3)ncc2c1,14.2,7.85,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL1991570,CCN(CC)CCOc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OC,9.5,8.02,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL3951501,COc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCN1CCOCC1,25.7,7.59,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL263718,Fc1ccc(Nc2ncnc3cc(OCCN4CCOCC4)c(OC4CCOCC4)cc23)cc1Cl,11.3,7.95,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL1201584,COc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCN(C)CC1,19.8,7.7,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL288964,Clc1ccc(Nc2ncnc3cc(OCCN4CCOCC4)c(OC4CCOCC4)cc23)cc1F,7.2,8.14,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL1201773,COc1ccc(Nc2ncnc3cc(OCCN4CCN(C)CC4)c(OC)cc23)cc1Cl,16.4,7.79,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL1615394,CCOc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCN1CCN(C)CC1,13.1,7.88,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL1615395,COc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCN(C)CC1,21.5,7.67,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL1615396,Clc1ccc(Nc2ncnc3cc(OCCN4CCN(C)CC4)c(OC4CCOCC4)cc23)cc1F,8.9,8.05,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL1615397,COc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCN1CCC(O)CC1,17.6,7.75,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL1615398,Fc1ccc(Nc2ncnc3cc(OCCN4CCN(C)CC4)c(OC4CCOCC4)cc23)cc1Cl,10.8,7.97,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL1615399,COc1ccc(Nc2ncnc3cc(OCCN4CCOCC4)c(OC)cc23)cc1F,24.3,7.61,Biochemical,EGFR,Homo sapiens,ChEMBL Database
+CHEMBL1615400,CCOc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCC(N)CC1,20.2,7.69,Biochemical,EGFR,Homo sapiens,ChEMBL Database
