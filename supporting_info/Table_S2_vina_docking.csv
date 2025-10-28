@@ -1,0 +1,6 @@
+molecule_id,smiles,binding_affinity,rmsd_lb,rmsd_ub,status,analysis
+molecule_01,4-[3-(propan-2-ylamino)phenylamino]-6-cyclobutyl-quinazoline,-8.2,1.2,2.1,successful,Strong binding with optimal conformation
+molecule_02,4-{4-[1-(tetrahydro-2H-pyran-4-yl)quinazolin-4-yl]amino}phenyl-N-(quinazolin-4-yl)pentan-1-amine,-7.9,1.5,2.4,successful,Good binding with acceptable pose
+molecule_03,N-phenyl-4-diphenylpyrimidin-2-amine,-7.5,1.8,2.7,successful,Moderate binding affinity
+molecule_04,4-phenyl-N-(4-methoxyphenyl)pyrimidin-2-amine,-7.8,1.4,2.2,successful,Good binding with favorable interactions
+molecule_05,6-methyl-N-(3-chloro-4-fluorophenyl)quinazolin-4-amine,-8.4,1.1,1.9,successful,Strongest binding with optimal pose

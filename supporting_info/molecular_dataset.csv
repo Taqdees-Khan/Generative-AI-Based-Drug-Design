@@ -1,0 +1,6 @@
+smiles,activity,molecular_weight,logp,hbd,hba,tpsa,rotatable_bonds,aromatic_rings
+c1ccc(CC2ncCc(c3ccccc3)n2)cc1,7.2,248.329,3.519,0,2,24.72,3,2
+COc1ccc(Nc2nccc3ccccc23)cc1,8.1,250.301,3.987,1,3,34.15,3,3
+Cc1ccc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1,8.4,287.725,4.474,1,3,37.81,2,3
+c1ccc(Nc2nccc(c3ccccc3)n2)cc1,7.8,247.301,3.887,1,3,37.81,3,3
+COc1ccc(Nc2nccc(c3ccccc3)n2)cc1,8.3,277.327,3.896,1,4,47.04,4,3

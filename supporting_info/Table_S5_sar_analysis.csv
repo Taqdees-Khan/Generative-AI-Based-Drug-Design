@@ -1,0 +1,6 @@
+molecule_id,scaffold_type,binding_mode,activity_class,structure_novelty,key_features,predicted_activity
+molecule_01,quinazoline,Type-1,highly_active,novel,cyclobutyl_substituent;propan-2-ylamino_group,IC50 < 10nM
+molecule_02,quinazoline,Type-1,active,novel,pyran_ring;extended_linker,IC50 10-100nM
+molecule_03,pyrimidine,Type-1,moderate,novel,diphenyl_system;simple_amine,IC50 100-500nM
+molecule_04,pyrimidine,Type-1,active,novel,methoxy_substituent;phenyl_groups,IC50 10-100nM
+molecule_05,quinazoline,Type-1,highly_active,novel,methyl_quinazoline;halogen_substituents,IC50 < 10nM

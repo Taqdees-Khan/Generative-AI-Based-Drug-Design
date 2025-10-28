@@ -1,0 +1,6 @@
+molecule_id,h_bonds_donor,h_bonds_acceptor,aromatic,hydrophobic,charged,total_contacts
+molecule_01,3,4,2,5,0,14
+molecule_02,2,3,1,4,0,10
+molecule_03,2,2,3,6,0,13
+molecule_04,3,3,2,4,0,12
+molecule_05,2,3,2,5,0,12
