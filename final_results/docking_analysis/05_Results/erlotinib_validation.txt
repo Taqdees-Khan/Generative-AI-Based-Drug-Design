@@ -1,0 +1,33 @@
+JCIM Docking Validation Results
+========================================
+
+Vina version: AutoDock Vina 1.1.2 (May 11, 2011)
+Grid center: 22.010, 0.250, 52.790
+RMSD: 5.334 Å
+
+Methods section text:
+
+DOCKING VALIDATION
+
+The docking protocol was validated by re-docking erlotinib to its 
+crystallographic pose in the EGFR structure (PDB ID: 1M17). The 
+validation was performed using AutoDock Vina 1.1.2 (May 11, 2011) with a grid centered 
+at coordinates (22.0, 0.2, 52.8) Å 
+and dimensions of 20×20×20 Å. Docking parameters included an 
+exhaustiveness of 64 and generation of 20 poses. The root-mean-square 
+deviation (RMSD) between the docked and crystallographic poses was 
+5.33 Å for heavy atoms, calculated using optimal Kabsch alignment.
+
+Supplementary table:
+
+Table S1. Docking Validation Parameters
+
+Parameter                    Value
+------------------------------------------
+Structure                    1M17 (EGFR-erlotinib)
+Software                     AutoDock Vina 1.1.2 (May 11, 2011)
+Grid center (x, y, z)        22.0, 0.2, 52.8 Å
+Grid dimensions              20×20×20 Å
+Exhaustiveness              64
+Number of poses             20
+Heavy-atom RMSD             5.334 Å

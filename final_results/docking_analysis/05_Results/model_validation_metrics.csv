@@ -1,0 +1,6 @@
+Molecule_ID,SMILES_Type,Binding_Affinity,RMSD_LB,RMSD_UB,Status
+molecule_02,Unknown,N/A,N/A,N/A,Failed
+molecule_03,Unknown,N/A,N/A,N/A,Failed
+molecule_16,Unknown,N/A,N/A,N/A,Failed
+molecule_17,Unknown,N/A,N/A,N/A,Failed
+molecule_18,Unknown,N/A,N/A,N/A,Failed
