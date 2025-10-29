@@ -1,0 +1,25 @@
+{
+  "total_residues": 20,
+  "average_hydrophobicity": 0.8300000000000001,
+  "net_charge": -1,
+  "total_h_donors": 4,
+  "total_h_acceptors": 5,
+  "average_size": 2.45,
+  "center_of_mass": {
+    "x": 24.54685158729553,
+    "y": -0.7848437912762165,
+    "z": 54.63608722686767
+  },
+  "residue_composition": {
+    "Hydrophobic": 11,
+    "Charged": 3,
+    "Polar": 3,
+    "Glycine": 2,
+    "Cysteine": 1
+  },
+  "hydrophobicity_distribution": {
+    "min": -3.9,
+    "max": 4.5,
+    "std": 2.9221657433449852
+  }
+}

@@ -1,0 +1,22 @@
+# EGFR Binding Site Residues (within 5Å of erlotinib)
+# Chain:ResID:ResName:Distance
+Chain: A, ResID: 694, ResName: LEU, OneLetterCode: L
+Chain: A, ResID: 695, ResName: GLY, OneLetterCode: G
+Chain: A, ResID: 702, ResName: VAL, OneLetterCode: V
+Chain: A, ResID: 719, ResName: ALA, OneLetterCode: A
+Chain: A, ResID: 721, ResName: LYS, OneLetterCode: K
+Chain: A, ResID: 738, ResName: GLU, OneLetterCode: E
+Chain: A, ResID: 742, ResName: MET, OneLetterCode: M
+Chain: A, ResID: 764, ResName: LEU, OneLetterCode: L
+Chain: A, ResID: 765, ResName: ILE, OneLetterCode: I
+Chain: A, ResID: 766, ResName: THR, OneLetterCode: T
+Chain: A, ResID: 767, ResName: GLN, OneLetterCode: Q
+Chain: A, ResID: 768, ResName: LEU, OneLetterCode: L
+Chain: A, ResID: 769, ResName: MET, OneLetterCode: M
+Chain: A, ResID: 770, ResName: PRO, OneLetterCode: P
+Chain: A, ResID: 771, ResName: PHE, OneLetterCode: F
+Chain: A, ResID: 772, ResName: GLY, OneLetterCode: G
+Chain: A, ResID: 773, ResName: CYS, OneLetterCode: C
+Chain: A, ResID: 820, ResName: LEU, OneLetterCode: L
+Chain: A, ResID: 830, ResName: THR, OneLetterCode: T
+Chain: A, ResID: 831, ResName: ASP, OneLetterCode: D
