@@ -1,0 +1,30 @@
+{
+  "pdb_id": "1M17",
+  "pdb_file": "Combined_EGFR_Docking_Analysis\\03_Receptor\\1M17.pdb",
+  "clean_pdb_file": "Combined_EGFR_Docking_Analysis\\03_Receptor\\1M17_clean.pdb",
+  "pdbqt_file": "Combined_EGFR_Docking_Analysis\\03_Receptor\\1M17_receptor.pdbqt",
+  "description": "EGFR kinase domain with erlotinib",
+  "resolution": "2.6 \u00c5",
+  "binding_site": {
+    "center_x": 25.0,
+    "center_y": 4.0,
+    "center_z": 44.0,
+    "size_x": 20.0,
+    "size_y": 20.0,
+    "size_z": 20.0
+  },
+  "key_residues": [
+    "Met793",
+    "Thr790",
+    "Gln791",
+    "Leu844",
+    "Thr854",
+    "Asp855",
+    "Phe856",
+    "Met766",
+    "Cys797",
+    "Leu718"
+  ],
+  "preparation_date": "2025-07-30",
+  "notes": "Binding site coordinates validated from previous docking results"
+}

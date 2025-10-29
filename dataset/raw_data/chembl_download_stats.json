@@ -1,0 +1,16 @@
+{
+  "total_compounds": 0,
+  "unique_molecules": 0,
+  "activity_range_nM": {
+    "min": NaN,
+    "max": NaN,
+    "median": NaN,
+    "mean": NaN
+  },
+  "molecular_weight_range": {
+    "min": null,
+    "max": null
+  },
+  "download_method": "bulk_api_optimized",
+  "download_time": "2025-07-24T12:53:34.581675"
+}

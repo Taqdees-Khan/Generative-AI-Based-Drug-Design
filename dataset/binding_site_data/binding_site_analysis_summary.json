@@ -1,0 +1,145 @@
+{
+  "binding_site_analysis": {
+    "pdb_file": "C:\\Users\\admin\\BF-final-version\\raw_data\\1M17.pdb",
+    "ligand_name": "AQ4 (erlotinib)",
+    "cutoff_distance": 5.0,
+    "total_binding_site_residues": 20,
+    "residue_composition": {
+      "Hydrophobic": 11,
+      "Charged": 3,
+      "Polar": 3,
+      "Glycine": 2,
+      "Cysteine": 1
+    },
+    "physicochemical_properties": {
+      "average_hydrophobicity": 0.8300000000000001,
+      "net_charge": -1,
+      "h_bond_donors": 4,
+      "h_bond_acceptors": 5,
+      "average_residue_size": 2.45
+    },
+    "key_binding_residues": [
+      {
+        "chain": "A",
+        "residue_id": 694,
+        "residue_name": "LEU",
+        "category": "Hydrophobic"
+      },
+      {
+        "chain": "A",
+        "residue_id": 695,
+        "residue_name": "GLY",
+        "category": "Glycine"
+      },
+      {
+        "chain": "A",
+        "residue_id": 702,
+        "residue_name": "VAL",
+        "category": "Hydrophobic"
+      },
+      {
+        "chain": "A",
+        "residue_id": 719,
+        "residue_name": "ALA",
+        "category": "Hydrophobic"
+      },
+      {
+        "chain": "A",
+        "residue_id": 721,
+        "residue_name": "LYS",
+        "category": "Charged"
+      },
+      {
+        "chain": "A",
+        "residue_id": 738,
+        "residue_name": "GLU",
+        "category": "Charged"
+      },
+      {
+        "chain": "A",
+        "residue_id": 742,
+        "residue_name": "MET",
+        "category": "Hydrophobic"
+      },
+      {
+        "chain": "A",
+        "residue_id": 764,
+        "residue_name": "LEU",
+        "category": "Hydrophobic"
+      },
+      {
+        "chain": "A",
+        "residue_id": 765,
+        "residue_name": "ILE",
+        "category": "Hydrophobic"
+      },
+      {
+        "chain": "A",
+        "residue_id": 766,
+        "residue_name": "THR",
+        "category": "Polar"
+      },
+      {
+        "chain": "A",
+        "residue_id": 767,
+        "residue_name": "GLN",
+        "category": "Polar"
+      },
+      {
+        "chain": "A",
+        "residue_id": 768,
+        "residue_name": "LEU",
+        "category": "Hydrophobic"
+      },
+      {
+        "chain": "A",
+        "residue_id": 769,
+        "residue_name": "MET",
+        "category": "Hydrophobic"
+      },
+      {
+        "chain": "A",
+        "residue_id": 770,
+        "residue_name": "PRO",
+        "category": "Hydrophobic"
+      },
+      {
+        "chain": "A",
+        "residue_id": 771,
+        "residue_name": "PHE",
+        "category": "Hydrophobic"
+      },
+      {
+        "chain": "A",
+        "residue_id": 772,
+        "residue_name": "GLY",
+        "category": "Glycine"
+      },
+      {
+        "chain": "A",
+        "residue_id": 773,
+        "residue_name": "CYS",
+        "category": "Cysteine"
+      },
+      {
+        "chain": "A",
+        "residue_id": 820,
+        "residue_name": "LEU",
+        "category": "Hydrophobic"
+      },
+      {
+        "chain": "A",
+        "residue_id": 830,
+        "residue_name": "THR",
+        "category": "Polar"
+      },
+      {
+        "chain": "A",
+        "residue_id": 831,
+        "residue_name": "ASP",
+        "category": "Charged"
+      }
+    ]
+  },
+  "analysis_timestamp": "2025-07-24T13:56:35.711277"
+}

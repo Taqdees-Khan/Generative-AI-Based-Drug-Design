@@ -1,0 +1,38 @@
+{
+  "dataset_info": {
+    "total_compounds": 2242,
+    "logp_range": {
+      "min": -1.3754000000000006,
+      "max": 3.599800000000002,
+      "mean": 2.821423648528101,
+      "median": 2.9933500000000013
+    },
+    "albumin_binding_range": {
+      "min": 5.0,
+      "max": 80.99300000000002,
+      "mean": 58.52617424174845,
+      "median": 62.19550000000002
+    }
+  },
+  "binding_category_distribution": {
+    "Low": {
+      "count": 1666,
+      "percentage": 74.3
+    },
+    "Low-Medium": {
+      "count": 576,
+      "percentage": 25.7
+    }
+  },
+  "logp_optimization_results": {
+    "high_binding_before_filter": 1.2488849241748439,
+    "high_binding_after_filter": 0.0,
+    "reduction_percentage": 100.0,
+    "target_achieved": true
+  },
+  "property_correlations": {
+    "logp_albumin_correlation": 0.9210108919778622,
+    "tpsa_albumin_correlation": -0.5932308246395134,
+    "mw_albumin_correlation": -0.03479909485128701
+  }
+}

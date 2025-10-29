@@ -1,0 +1,57 @@
+{
+  "dataset_info": {
+    "total_type1_inhibitors": 2242,
+    "activity_range_nM": {
+      "min": 0.006,
+      "max": 1000000.0,
+      "median": 1000.0,
+      "mean": 9293.374898363068
+    },
+    "logp_range": {
+      "min": -1.3754000000000006,
+      "max": 3.599800000000002,
+      "median": 2.9933500000000013,
+      "mean": 2.821423648528101
+    },
+    "molecular_weight_range": {
+      "min": 250.3050000000001,
+      "max": 615.7390000000017,
+      "median": 367.4529999999996,
+      "mean": 374.0074411239962
+    },
+    "qed_range": {
+      "min": 0.3006546759970549,
+      "max": 0.9429128040280621,
+      "median": 0.5950398106876298,
+      "mean": 0.5959820460308899
+    }
+  },
+  "filtering_summary": {
+    "initial_raw_records": 35310,
+    "after_basic_cleaning": 19811,
+    "after_property_calculation": 5312,
+    "after_logp_filter": 5312,
+    "after_type1_classification": 4916,
+    "final_type1_dataset": 2242
+  },
+  "lipinski_compliance": {
+    "0_violations": 2113,
+    "1_violation": 129
+  },
+  "scaffold_diversity": {
+    "unique_scaffolds": 1030,
+    "top_scaffolds": {
+      "c1ccc(Nc2ncnc3ccccc23)cc1": 96,
+      "c1ccc(Nc2ncnc3ccncc23)cc1": 78,
+      "c1ccc(-c2n[nH]c3ncncc23)cc1": 52,
+      "c1ccc(Nc2ncnc3cnccc23)cc1": 33,
+      "O=C(Cc1ccccc1)NS(=O)(=O)c1ccccc1": 25,
+      "c1cc(Nc2cc3[nH]cnc3cn2)nc(N2CCCCC2)n1": 24,
+      "O=C(NS(=O)(=O)c1ccccc1)c1cccnc1": 24,
+      "c1ccc(CNc2ccccc2)cc1": 23,
+      "c1ccc(CNc2ncnc3ccccc23)cc1": 19,
+      "c1ccc(CNc2ncnc3ccncc23)cc1": 18
+    }
+  },
+  "processing_timestamp": "2025-07-24T13:30:03.350186"
+}

@@ -1,0 +1,19 @@
+COMBINED EGFR AUTODOCK VINA DOCKING ANALYSIS REPORT
+=================================================================
+Generated: 2025-07-30 16:25:44
+Project: BindingForge EGFR Novel Molecules
+Receptor: EGFR (PDB: 1M17) - ATP binding site
+Directory: C:\Users\admin\BF-final-version\Combined_EGFR_Docking_Analysis
+
+BINDING SITE PARAMETERS:
+------------------------------
+Center: (25.0, 4.0, 44.0)
+Size: 20.0 x 20.0 x 20.0 Å
+Target: ATP binding pocket (Met793, Thr790, Gln791, etc.)
+
+SUMMARY STATISTICS:
+------------------------------
+Total molecules analyzed: 23
+Successful docking: 0
+Success rate: 0.0%
+

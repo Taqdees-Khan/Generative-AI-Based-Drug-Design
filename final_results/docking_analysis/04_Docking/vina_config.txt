@@ -1,0 +1,10 @@
+receptor = Combined_EGFR_Docking_Analysis\03_Receptor\1M17_receptor.pdbqt
+center_x = 25.0
+center_y = 4.0 
+center_z = 44.0
+size_x = 20.0
+size_y = 20.0
+size_z = 20.0
+exhaustiveness = 16
+num_modes = 9
+energy_range = 3

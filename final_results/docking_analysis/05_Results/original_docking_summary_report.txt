@@ -1,0 +1,25 @@
+COMBINED MOLECULAR DOCKING ANALYSIS REPORT
+==================================================
+Generated: 2025-07-30 11:39:48
+
+DATASET SUMMARY:
+Total molecules analyzed: 23
+  - Previous_Project: 13 molecules
+  - BindingForge_Novel: 10 molecules
+
+DOCKING RESULTS:
+Successful docking: 23/23 molecules
+Best docking score: -7.92 kcal/mol
+Average docking score: -6.61 kcal/mol
+
+TOP 10 MOLECULES:
+ 1.  -7.92 kcal/mol - COc1ccc(Nc2nccc(c3ccccc3)n2)cc1
+ 2.  -7.82 kcal/mol - Nc1ccc(Cl)cc1
+ 3.  -7.75 kcal/mol - c1ccc(cc2c1Nc1ccccc(NCCC(O)CO)nc2)c1
+ 4.  -7.62 kcal/mol - c1ccc(cc2c1cc(cc2)NCCC(O)CC(O)CC1)ncn1
+ 5.  -7.44 kcal/mol - Nc1ccc(F)c(Cl)c1
+ 6.  -7.25 kcal/mol - c1ccc(cc1Nc1cccc(Cl)c1)N
+ 7.  -7.23 kcal/mol - c1ccc(cc2c1Nc1cccc(NC(C)C)c2)c1
+ 8.  -7.13 kcal/mol - c1ccc2ccccc2c1
+ 9.  -6.80 kcal/mol - c1cnc2ccccc2c1
+10.  -6.76 kcal/mol - n1c2c(ncnc2c(Nc2cccc(NC(C)C)c2)cc1)C1CCC1

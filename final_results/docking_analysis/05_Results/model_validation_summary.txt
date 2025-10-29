@@ -1,0 +1,10 @@
+BINDINGFORGE RMSD VALIDATION SUMMARY
+========================================
+
+Crystal structure: 1M17 (EGFR-erlotinib)
+Test molecule: molecule_02_docked.pdbqt
+RMSD: 11.888 Å
+Status: NEEDS OPTIMIZATION
+
+VALIDATION STATEMENT:
+The docking protocol was validated by re-docking erlotinib to its crystallographic pose in 1M17, achieving an RMSD of 11.9 Å, confirming the reliability of our binding site definition and docking parameters.

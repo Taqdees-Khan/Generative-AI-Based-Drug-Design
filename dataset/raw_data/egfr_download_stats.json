@@ -1,0 +1,17 @@
+{
+  "total_activities": 0,
+  "unique_molecules": 0,
+  "activity_types": {},
+  "activity_range_nM": {
+    "min": NaN,
+    "max": NaN,
+    "median": NaN,
+    "mean": NaN
+  },
+  "molecular_weight_range": {
+    "min": null,
+    "max": null,
+    "median": null
+  },
+  "download_timestamp": "2025-07-23T23:24:25.839410"
+}
